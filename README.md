@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋.
+
+I am ***Mathieu De Meue***. <br> 
+A problem-solving programmer with several years experience in the field of work. As I was in highschool I started to learn the basics of HTML and CSS but also CMS systems were triggering me. In 2018 I started my own little digital agency [Studio 97](https://studio97.be) as a freelancer. As I got more interessted in Webdevelopment I started my associate degree in 2019 at Artevelde University of Applied Scienced of which I'm graduating in 2021. <br> <br>
+
+I enjoy websites with a clean design and matching colors. Also a well documented and clean code project is something very lovely. Responsive and performant webprojects are something u can't get rid of today.
+
 
 <!--
 **matdemeue/matdemeue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
