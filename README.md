@@ -1,17 +1,13 @@
 ### Hello there 👋.
 
-<br>
-
 I'm ***Mathieu De Meue***. <br> 
 A young programmer with a passion for webdevelopment and applications. <br>
 At the Artevelde University of Applied Sciences, I’m following Associate Degree Programming, I will be graduating from in 2021. <br>
-To put theory into practice, in 2019 I started my own digital agency [Studio 97](https://studio97.be), offering IT freelance support to self-employed persons and small companies looking for a digital presence. <br><br>
+To put theory into practice, in 2019 I started my own digital agency [Studio 97](https://studio97.be), offering IT freelance support to self-employed persons and small companies looking for a digital presence. <br>
 
 In all my creations you can find a straightforward clean design and code in combination with today’s digital marketing demands, forming a base for success. <br><br>
 
 ### Some of my skills ⚡. 
-
-<br>
 
 | Topic | Skills |
 | ----- | ------ | 
@@ -23,11 +19,7 @@ In all my creations you can find a straightforward clean design and code in comb
 | CMS Theming | Timber |
 | Graphics | Adobe CC Suite (Photoshop, Illustrator, Xd, inDesign) |
 
-<br> 
-
 ### Get in touch 📫.
-
-<br>
 
 [Website - Studio 97](https://studio97.be) <br>
 [LinkedIn - Mathieu De Meue](https://www.linkedin.com/in/mathieu-de-meue-223887129/)
