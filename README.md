@@ -7,22 +7,46 @@ To put theory into practice, in 2019 I started my own digital agency [Studio 97]
 
 In all my creations you can find a straightforward clean design and code in combination with today’s digital marketing demands, forming a base for success. <br><br>
 
-### Some of my skills ⚡. 
-
-| Topic | Skills |
-| ----- | ------ | 
-| Programming | HTML / CSS / JavaScript / Python (beginner level) | 
-| Templating Languages | Nunjucks / Liquid / Twig |
-| SCM | Git / GitHub / GitHub Pages |
-| Server | CLI / SSH / DNS Management / Ubuntu Server |
-| CMS | Wordpress |
-| CMS Theming | Timber |
-| Graphics | Adobe CC Suite (Photoshop, Illustrator, Xd, inDesign) |
-
 ### Get in touch 📫.
 
 [Website - Studio 97](https://studio97.be) <br>
 [LinkedIn - Mathieu De Meue](https://www.linkedin.com/in/mathieu-de-meue-223887129/)
+
+### Skills ⚡. 
+
+#### Front-end
+
+| Topic | Skills |
+| ----- | ------ | 
+| Languages | HTML / CSS / SASS (SCSS) / JavaScript | 
+| CMS Frameworks | Bootstrap |
+| JS Frameworks | React (Create React App / Nextjs) |
+| SSG | Jekyll / 11ty.io |
+| Templating Engines | Nunjucks / Liquid / Twig |
+| Deployment | LAMP server / Vercel / Github Pages |
+
+#### Back-end
+
+| Topic | Skills |
+| ----- | ------ | 
+| Languages | JavaScript, Python, PHP | 
+| NodeJS Frameworks | ExpressJS |
+| Python Frameworks | Flask (FastAPI) |
+| JS Frameworks | React (Create React App / Nextjs) |
+| Deployment | Heroku |
+
+#### General
+
+| Topic | Skills |
+| ----- | ------ | 
+| SCM | Git / GitHub |
+| Server | CLI / SSH / FTP / DNS Management / CRON |
+| CMS | Wordpress |
+| CMS Theming | Timber |
+| Headless CMS | Wordpress REST / Strapi |
+| Graphics | Adobe CC Suite (Photoshop, Illustrator, Xd, inDesign) |
+
+
 
 
 
