@@ -19,32 +19,24 @@ In all my creations you can find a straightforward clean design and code in comb
 | Topic | Skills |
 | ----- | ------ | 
 | Languages | HTML / CSS / SASS (SCSS) / JavaScript | 
-| CMS Frameworks | Bootstrap |
-| JS Frameworks | React (Create React App / Nextjs) |
+| Frameworks | React (Create React App / Nextjs) / Bootstrap |
 | SSG | Jekyll / 11ty.io |
+| CMS | Wordpress (& Wordpress REST) / Timber / Strapi (Headless) |
 | Templating Engines | Nunjucks / Liquid / Twig |
-| Deployment | LAMP server / Vercel / Github Pages |
 
 #### Back-end
 
 | Topic | Skills |
 | ----- | ------ | 
 | Languages | JavaScript, Python, PHP | 
-| NodeJS Frameworks | ExpressJS |
-| Python Frameworks | Flask (FastAPI) |
-| JS Frameworks | React (Create React App / Nextjs) |
-| Deployment | Heroku |
-
-#### General
-
-| Topic | Skills |
-| ----- | ------ | 
-| SCM | Git / GitHub |
+| Frameworks | NodeJS / ExpressJS / Flask (FastAPI) |
 | Server | CLI / SSH / FTP / DNS Management / CRON |
-| CMS | Wordpress |
-| CMS Theming | Timber |
-| Headless CMS | Wordpress REST / Strapi |
-| Graphics | Adobe CC Suite (Photoshop, Illustrator, Xd, inDesign) |
+| Deployment | LAMP server / Vercel / Github Pages / Heroku |
+
+
+
+
+
 
 
 
