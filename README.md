@@ -1,11 +1,9 @@
 ### Hello there 👋.
 
-I'm ***Mathieu De Meue***. <br> 
-A young programmer with a passion for webdevelopment and applications. <br>
-At the Artevelde University of Applied Sciences, I’m following Associate Degree Programming, I will be graduating from in 2021. <br>
-To put theory into practice, in 2019 I started my own digital agency [Studio 97](https://studio97.be), offering IT freelance support to self-employed persons and small companies looking for a digital presence. <br>
-
-In all my creations you can find a straightforward clean design and code in combination with today’s digital marketing demands, forming a base for success. <br><br>
+Ik ben ***Mathieu De Meue***. <br> 
+Een jonge programmeur met een sterke passie voor webdevelopment en applicaties.<br>
+Aan de Arteveldehogeschool in Gent volg ik op dit moment de opleiding Graduaat Programmeren, waarvan ik afstudeer in 2021.<br>
+Om de opgedane kennis om te zetten naar de praktijk, ben ik in 2019 mijn eigen kleine digitale studio begonnen, [Studio 97](https://studio97.be), waar ik freelance IT support aanbied aan kleine ondernemers of bedrijven die op zoek zijn naar digitale bekendheid.<br><br>
 
 ### Get in touch 📫.
 
@@ -19,17 +17,17 @@ In all my creations you can find a straightforward clean design and code in comb
 | Topic | Skills |
 | ----- | ------ | 
 | Languages | HTML / CSS / SASS (SCSS) / JavaScript | 
-| Frameworks | React (Create React App / Nextjs) / Bootstrap |
-| SSG | Jekyll / 11ty.io |
-| CMS | Wordpress (& Wordpress REST) / Timber / Strapi (Headless) |
+| Frameworks | React (Create React App / Nextjs) / Bootstrap / GraphQL (ApolloClient) |
+| SSG | 11ty.io / Jekyll |
+| CMS | Wordpress (& Wordpress REST) |
 | Templating Engines | Nunjucks / Liquid / Twig |
 
 #### Back-end
 
 | Topic | Skills |
 | ----- | ------ | 
-| Languages | JavaScript, Python, PHP | 
-| Frameworks | NodeJS / ExpressJS / Flask (FastAPI) |
+| Languages | JavaScript, Python, PHP, SQL | 
+| Frameworks | NodeJS / ExpressJS / Flask (FastAPI) / GraphQL (ApolloServer) |
 | Server | CLI / SSH / FTP / DNS Management / CRON |
 | Deployment | LAMP server / Vercel / Github Pages / Heroku |
 
