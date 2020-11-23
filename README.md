@@ -3,7 +3,7 @@
 Ik ben ***Mathieu De Meue***. <br> 
 Een jonge programmeur met een sterke passie voor webdevelopment en applicaties.<br>
 Aan de Arteveldehogeschool in Gent volg ik op dit moment de opleiding Graduaat Programmeren, waarvan ik afstudeer in 2021.<br>
-Om de opgedane kennis om te zetten naar de praktijk, ben ik in 2019 mijn eigen kleine digitale studio begonnen, [Studio 97](https://studio97.be), waar ik freelance IT support aanbied aan kleine ondernemers of bedrijven die op zoek zijn naar digitale bekendheid.<br><br>
+Om de opgedane kennis om te zetten naar de praktijk, ben ik in 2018 mijn eigen kleine digitale studio begonnen, [Studio 97](https://studio97.be), waar ik freelance IT support aanbied aan kleine ondernemers of bedrijven die op zoek zijn naar digitale bekendheid.<br><br>
 
 ### Get in touch 📫.
 
