@@ -1,61 +1,16 @@
 ### Hello there 👋.
 
-Ik ben ***Mathieu De Meue***. <br> 
-Een jonge programmeur met een sterke passie voor webdevelopment en applicaties.<br>
-Aan de Arteveldehogeschool in Gent volg ik op dit moment de opleiding Graduaat Programmeren, waarvan ik afstudeer in 2021.<br>
-Om de opgedane kennis om te zetten naar de praktijk, ben ik in 2018 mijn eigen kleine digitale studio begonnen, [Studio 97](https://studio97.be), waar ik freelance IT support aanbied aan kleine ondernemers of bedrijven die op zoek zijn naar digitale bekendheid.<br><br>
+I am ***Mathieu De Meue***. <br>
+A programming student with a lot of interest in Drupal development and custom web applications. <br>
+In september 2021 I will receive my associate degree in programming from the Artevelde University of Applied Sciences, Ghent <br>
+To extend my knowledge I began my own business with [Smashing Impact](https://www.facebook.com/smashingimpact) where I help local business owners with their online but also offline visibilty. <br><br>
 
-### Get in touch 📫.
+### 📫 Get in touch.
 
-[Website - Studio 97](https://studio97.be) <br>
-[LinkedIn - Mathieu De Meue](https://www.linkedin.com/in/mathieu-de-meue-223887129/)
+[Portfolio](https://mathieudemeue.be)
+[LinkedIn - Personal](https://www.linkedin.com/in/mathieu-de-meue-223887129/)
+<a href="mailto:mathieu@demeue.be">Mail me!</a>
 
-### Skills ⚡. 
+### 🌱 What I want to learn in the near future...
 
-#### Front-end
-
-| Topic | Skills |
-| ----- | ------ | 
-| Languages | HTML / CSS / SASS (SCSS) / JavaScript | 
-| Frameworks | React (Create React App / Nextjs) / Bootstrap / GraphQL (ApolloClient) |
-| SSG | 11ty.io / Jekyll |
-| CMS | Wordpress (& Wordpress REST) |
-| Templating Engines | Nunjucks / Liquid / Twig |
-
-#### Back-end
-
-| Topic | Skills |
-| ----- | ------ | 
-| Languages | JavaScript, Python, PHP, SQL | 
-| Frameworks | NodeJS / ExpressJS / Flask (FastAPI) / GraphQL (ApolloServer) |
-| Server | CLI / SSH / FTP / DNS Management / CRON |
-| Deployment | LAMP server / Vercel / Github Pages / Heroku |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**matdemeue/matdemeue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+Gatsby.js (React), React State Management package (Redux or Recoil), Flutter (and Dart), TypeScript, Docker (and Kubernetes), ...
